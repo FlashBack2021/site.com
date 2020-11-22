@@ -40,7 +40,7 @@ a {
   transition: all 0.4s ease;
 }
 a:hover {
-  color: #ffc200 !important;
+  color: #25fde9 !important;
 }
 
 .navbar-brand .uil {
@@ -99,7 +99,7 @@ b, strong {
   color: #ffffff;
 }
 .custom-btn.custom-btn-bg:hover {
-  background: #ffc200;
+  background: #25fde9;
   color: #ffffff !important;
 }
 
@@ -181,8 +181,8 @@ b, strong {
   transform: translate(0, 0);
 }
 .navbar[class*="headroom--not-top"] {
-  background: #25fde9;
-  border-bottom: 1px solid ##25fde9;
+  background: #ffffff;
+  border-bottom: 1px solid ##ffffff;
   padding-top: 0;
   padding-bottom: 0;
 }
@@ -398,7 +398,7 @@ b, strong {
   font-size: inherit;
 }
 .owl-theme .owl-nav [class*=owl-]:hover {
-  color: #ffc200;
+  color: #25fde9;
 }
 .owl-theme .owl-dots .owl-dot {
   outline: none;
@@ -430,7 +430,7 @@ b, strong {
   height: 48px;
 }
 .contact-form .form-control:hover, .contact-form .form-control:focus {
-  border-color: #ffc200;
+  border-color: #25fde9;
 }
 .contact-form .submit-btn {
   background: #ffc200;
@@ -442,7 +442,7 @@ b, strong {
   transition: all 0.4s ease;
 }
 .contact-form .submit-btn:hover {
-  background: #474559;
+  background: #25fde9;
 }
 
 .contact-info {
